@@ -1,0 +1,10 @@
+   states
+   dstate
+   lifecycle
+   lifecycle_bad
+   lifecycle_bad.c
+   zombie
+   orphan
+   buffer
+   minish
+   out.txt
